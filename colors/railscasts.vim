@@ -34,7 +34,7 @@ hi MatchParen guifg=NONE    guibg=#131313
 hi Title      guifg=#E6E1DC
 
 hi Comment    guifg=#BC9357 guibg=NONE     gui=italic
-hi! link Todo Comment
+hi Todo       guifg=#BB2136 guibg=NONE     gui=italic
 
 hi String     guifg=#A5C160
 hi! link Number String
